@@ -1,0 +1,8 @@
+a=input("Please enter value 1: ")
+b=input("Please enter value 2: ")
+a = int(a)
+b = int(b)
+print('Addition: ', a+b)
+print('Subtraction: ', a-b)
+print('Multiplication: ', a*b)
+print('Division: ', a/b)
